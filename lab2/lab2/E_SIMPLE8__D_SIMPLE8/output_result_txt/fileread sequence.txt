@@ -1,0 +1,120 @@
+file==>wrs\wr0.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr1.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr10.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr11.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr12.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr13.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr14.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr15.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr16.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr17.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr18.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr19.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr2.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr20.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr21.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr22.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr23.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr24.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr25.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr26.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr27.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr28.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr29.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr3.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr30.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr31.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr32.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr33.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr34.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr35.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr36.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr37.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr38.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr39.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr4.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr5.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr6.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr7.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr8.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512
+file==>wrs\wr9.hex
+watermark is read, length = 2097152
+Image pixel data are read, height = 512, width = 512

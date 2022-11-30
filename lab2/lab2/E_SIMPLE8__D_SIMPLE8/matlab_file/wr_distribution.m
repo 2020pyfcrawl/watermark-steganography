@@ -1,0 +1,12 @@
+dat1=load('wr1.hex');
+x=dat1(:);
+x=reshape(x,8,512*512);
+% tabulate(x(2,:));
+x1 = sort(x(1,:));
+[f,xi]=ksdensity(x1);
+plot(xi,f);
+[mu12,sigma12] = normfit(x1);
+% y1 = normpdf(x1,mu12,sigma12);
+% plot(x1, y1);
+%[f,xi]=ksdensity(x);
+%plot(xi,f);
